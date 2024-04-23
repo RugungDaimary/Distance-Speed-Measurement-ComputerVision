@@ -1,6 +1,12 @@
-## Distance and Speed Measurement Using Single Camera
+# Distance and Speed Measurement Using Single Camera
 
 This project explores the fascinating field of computer vision, specifically focusing on the tasks of distance and speed measurement using a single camera setup. By leveraging the power of OpenCV (Open Source Computer Vision Library), this implementation demonstrates the ability to estimate distances and measure object speeds based on visual information captured by a camera.
+
+## Contributors
+
+- Rajnish Kumar (2K21/IT/139)
+- Ritik (2K21/IT/145)
+- Rugung Daimary (2K21/IT/151)
 
 ## Introduction
 
